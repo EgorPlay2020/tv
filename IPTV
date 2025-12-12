@@ -163,7 +163,7 @@ https://vsd173.okcdn.ru/hls/8083234884102.m3u8/sig/SfOSgTXYhg8/expires/176564400
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="piatnica" tvg-logo="http://epg.one/img2/1003.png" group-title="Развлекательные",Пятница!
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+https://vsd286.okcdn.ru/hls/7937441663606.m3u8/sig/oH5jmiSOakc/expires/1765644198805/srcIp/37.214.4.175/urls/45.136.22.65/clientType/0/srcAg/CHROME/mid/9313862491766/7937441663606_high/index.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://iptvx.one/picons/piatnica.png" group-title="Развлекательные",Пятница! HD
 
 #EXTINF:-1 tvg-id="piatnica-int" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Развлекательные",Пятница! Int.
