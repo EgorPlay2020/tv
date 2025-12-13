@@ -173,7 +173,7 @@ https://vsd245.okcdn.ru/hls/483975170566.m3u8/sig/umttEcEqh_4/expires/1765649896
 #EXTINF:-1 tvg-id="mixm-tv" tvg-logo="https://www.dropbox.com/scl/fi/xbvr7jrvj231d5s88p9jf/MixmTV.png?rlkey=eqz5ntmnxkfi2yna9tsqsqo56&st=ve6f1bxw&raw=1" group-title="Музыкальные",MIXM TV
 https://vsd233.okcdn.ru/hls/494737164923.m3u8/sig/rqfaE8XDdVs/expires/1765650054399/srcIp/37.214.4.175/urls/185.226.55.79/clientType/0/srcAg/CHROME/mid/1077196103291/494737164923_fullhd/index.m3u8
 
-#EXTINF:-1 tvg-id="novoe-radio" tvg-logo="https://www.dropbox.com/scl/fi/7gb9zfhzb3agdwxka5ge4/TNT-MUSIC.png?rlkey=cc08xnhb6xhn88xjh10ccerkb&st=pmybs52l&raw=1" group-title="Музыкальные",Новое Радио
+#EXTINF:-1 tvg-id="novoe-radio" tvg-logo="https://www.dropbox.com/scl/fi/bw7hduxfkgm9bra09mjei/NovoeRadio.png?rlkey=5runamhs5i98j5dn5qjb0opxp&st=xnphvr7v&raw=1" group-title="Музыкальные",Новое Радио
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="record" tvg-logo="https://www.dropbox.com/scl/fi/1kxuh47gnvcmsp1rqf1vl/RecordRadio.png?rlkey=f12qzzaptw5boobzbd6xmg5p5&st=8sg5ctt5&raw=1" group-title="Музыкальные",Record Radio
