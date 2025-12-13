@@ -186,7 +186,7 @@ https://tntradio.hostingradio.ru:8027/tntradio128.mp3?radiostatistica=tntmusic.r
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-id="yu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Logo_U_TV.png" group-title="Развлекательные",Ю HD
-https://vsd126.okcdn.ru/hls/1286158092976.m3u8/sig/aTj8NcufAbw/expires/1765639856846/srcIp/37.214.4.175/urls/185.226.55.84/clientType/0/srcAg/CHROME/mid/2961812233904/1286158092976_high/index.m3u8
+https://vsd126.okcdn.ru/hls/1286158092976.m3u8/sig/YWRoNOOrusE/expires/1765737293334/srcIp/37.214.4.175/urls/185.226.55.84/clientType/0/srcAg/CHROME/mid/2961812233904/1286158092976_high/index.m3u8
 
 #EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://iptvx.one/picons/retro-music-cz.png" group-title="Музыкальные",Retro Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
