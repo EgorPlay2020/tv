@@ -31,7 +31,7 @@ https://pkvc-hls7.cdnvideo.ru/pkvc/pk/playlist.m3u8
 #EXTINF:-1 tvg-id="tro" tvg-logo="https://www.dropbox.com/scl/fi/jo2j2bxp4m67ke8jckpc9/belros.png?rlkey=tcy5ytwpxcmltumk0ooxmeq2r&st=kems5ufr&raw=1" group-title="Общественные",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 
-#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://www.dropbox.com/scl/fi/2z9m6vaj00x6y0on3z4k0/.png?rlkey=iitotlu4nz9ls8n6d4xf3b8wi&st=sfhvrs8u&raw=1" group-title="Общественные",Звезда HD
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="https://www.dropbox.com/scl/fi/2z9m6vaj00x6y0on3z4k0/.png?rlkey=iitotlu4nz9ls8n6d4xf3b8wi&st=zd5bmzb4&raw=1" group-title="Общественные",Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="ntv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://epg.one/img2/162.png" group-title="Общественные",НТВ
@@ -90,7 +90,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 #EXTINF:-1 tvg-id="ani" tvg-logo="https://iptvx.one/picons/ani.png" group-title="Детские",Ani
 http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="detsky-mir" tvg-logo="https://www.dropbox.com/scl/fi/6s5f870zm5eariw7fmrwm/Detskiy_MIR.png?rlkey=t2b88ab9az8bct36jhv74ea9l&st=k7h7xd6y&raw=1" group-title="Детские",Детский мир
+#EXTINF:-1 tvg-id="detsky-mir" tvg-logo="https://www.dropbox.com/scl/fi/qu8rgeo1puxfj1f9yqfu6/Detskiy_MIR.png?rlkey=eweht73zzxa8gahtchb8r7m3p&st=flq23qzy&raw=1" group-title="Детские",Детский мир
 https://fl1003.bozztv.com/ushba80/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="karusel" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://www.dropbox.com/scl/fi/aitbwkcougkig9ppvfryk/Karusel.png?rlkey=rf3vc3mtcqbt0sm2yap01uw71&st=wml4wzg9&raw=1" group-title="Детские",Карусель
@@ -100,15 +100,15 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-id="mama" tvg-logo="https://iptvx.one/picons/mama.png" group-title="Детские",Мама
 http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="mult" tvg-logo="https://www.dropbox.com/scl/fi/pwp92xhtceb68cuuy5pgr/Mult.png?rlkey=ced7ky3iroofj53i9ma7anjx3&st=6n9x6ryk&raw=1" group-title="Детские",Мульт HD
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://www.dropbox.com/scl/fi/pt8nfg8bd5dnm8bz7hfmu/Mult.png?rlkey=4avhquk79mvarzd4qvpmqe9uz&st=nxncvgo2&raw=1" group-title="Детские",Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://www.dropbox.com/scl/fi/uzum6654hx2adj1q881kw/Mult_Music.png?rlkey=con8edqyan3agoz0inw1hv7s6&st=y5lxgttu&raw=1" group-title="Детские",МУЛЬТиМУЗЫКА
+#EXTINF:-1 tvg-id="multimuzyka" tvg-logo="https://www.dropbox.com/scl/fi/9kc6abx8dcbiiykgskutd/Mult_Music.png?rlkey=qmrg2xcfx51w4akxu37zewvqt&st=q5c6ncg8&raw=1" group-title="Детские",МУЛЬТиМУЗЫКА
 http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="multimania" tvg-logo="https://multilandia.ru/upload/assets/userfiles/logotypes/ML2022-2D-short-logo.png" group-title="Детские",Мультиландия
 
-#EXTINF:-1 tvg-id="multimania-lv" tvg-logo="https://www.dropbox.com/scl/fi/qi3bbjdqbhkhhfyls9swv/Multimaniya.png?rlkey=muzwowpcfx5nggv7rsr74uzdr&st=r208ql7w&raw=1" group-title="Детские",Мультимания
+#EXTINF:-1 tvg-id="multimania-lv" tvg-logo="https://www.dropbox.com/scl/fi/ej16462vk86r8unyi1unr/Multimaniya.png?rlkey=cam79zrhv9144joj5n7nwh49v&st=d5f19lw3&raw=1" group-title="Детские",Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="o_" tvg-logo="https://iptvx.one/picons/o_.png" group-title="Детские",О!
@@ -122,7 +122,7 @@ http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" tvg-logo="https://www.dropbox.com/scl/fi/tym7wwoyf03fcbolrsxnn/Domashniy.png?rlkey=3qdc7bv996lhdnga6bj1pu3jc&st=c5kdunh0&raw=1" group-title="Развлекательные",Домашний
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domashny" tvg-logo="https://www.dropbox.com/scl/fi/fv1xeuevj4py1wcigub3q/Domashniy.png?rlkey=kgmyugc96k1cho3zc4f0tgh2k&st=3fy1wuwh&raw=1" group-title="Развлекательные",Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 
@@ -164,7 +164,7 @@ http://95.66.188.74/TNT_HD/mono.m3u8
 #EXTINF:-1 tvg-id="tnt-music" tvg-logo="https://www.dropbox.com/scl/fi/7gb9zfhzb3agdwxka5ge4/TNT-MUSIC.png?rlkey=cc08xnhb6xhn88xjh10ccerkb&st=pmybs52l&raw=1" group-title="Музыкальные",ТНТ Music
 https://vsd245.okcdn.ru/hls/483975170566.m3u8/sig/umttEcEqh_4/expires/1765649896332/srcIp/37.214.4.175/urls/45.136.22.56/clientType/0/srcAg/CHROME/mid/1488951909894/483975170566_fullhd/index.m3u8
 
-#EXTINF:-1 tvg-id="mixm-tv" tvg-logo="https://www.dropbox.com/scl/fi/jcixn80v8vqnhbfs4ys2b/MIXM.png?rlkey=v34otq9k2uon3zecdr3pp55b8&st=jnheqb51&raw=1" group-title="Музыкальные",MIXM TV
+#EXTINF:-1 tvg-id="mixm-tv" tvg-logo="https://www.dropbox.com/scl/fi/xbvr7jrvj231d5s88p9jf/MixmTV.png?rlkey=eqz5ntmnxkfi2yna9tsqsqo56&st=ve6f1bxw&raw=1" group-title="Музыкальные",MIXM TV
 https://vsd233.okcdn.ru/hls/494737164923.m3u8/sig/rqfaE8XDdVs/expires/1765650054399/srcIp/37.214.4.175/urls/185.226.55.79/clientType/0/srcAg/CHROME/mid/1077196103291/494737164923_fullhd/index.m3u8
 
 #EXTINF:-1 tvg-id="novoe-radio" tvg-logo="https://www.dropbox.com/scl/fi/7gb9zfhzb3agdwxka5ge4/TNT-MUSIC.png?rlkey=cc08xnhb6xhn88xjh10ccerkb&st=pmybs52l&raw=1" group-title="Музыкальные",Новое Радио
